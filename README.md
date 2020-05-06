@@ -1,1 +1,1 @@
-# Helth_Care_Hospital_Register-Doctore_Register
+# Helth_Care_Hospital_Register-Doctor_Register
